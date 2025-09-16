@@ -13,5 +13,11 @@
 ---
 
 > # Chen Wei Yui
-> # Github : LGRPP
+> # Github : 
 > # Email : chanweiyui@gmail.com
+
+---
+
+> # Ting Ho Man
+> # Github : Setsuna47
+> # Email : timting720@gmail.com
